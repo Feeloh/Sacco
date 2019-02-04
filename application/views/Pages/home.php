@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html>
 
-<body>
- 
 	<!-- Jumbtron -->
 	<div class="container">
 		<div class="jumbotron">
@@ -17,6 +13,4 @@
 		</div>
 	</div>
      	
-</body>
 
-</html>
